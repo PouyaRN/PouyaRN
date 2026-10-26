@@ -22,9 +22,9 @@
       
       .tagline {
         font-family: 'Work Sans', -apple-system, sans-serif;
-        font-size: 14.5px;
+        font-size: 15px;
         font-weight: 700;
-        letter-spacing: 0.04em;
+        letter-spacing: 0.05em;
         text-transform: uppercase;
         fill: #D4D4D4;
       }
@@ -54,38 +54,38 @@
 
   <!-- Top Decorative Tech Accents -->
   <rect x="24" y="24" width="8" height="8" fill="#EF4444" />
-  <text x="40" y="32" class="meta-tag">GITHUB PROFILE // 2026 EDITION</text>
-  <text x="730" y="32" class="meta-tag">STATUS: AVAILABLE FOR HIRE</text>
+  <text x="40" y="32" class="meta-tag">GITHUB PROFILE // DEVELOPER PORTFOLIO</text>
+  <text x="735" y="32" class="meta-tag">MODE: CONTINUOUS LEARNER</text>
 
   <!-- Subtle Structural Corner Notches -->
   <line x1="844" y1="24" x2="856" y2="24" stroke="#525252" stroke-width="2" />
   <line x1="856" y1="24" x2="856" y2="36" stroke="#525252" stroke-width="2" />
 
   <!-- Overline / Role Subtitle -->
-  <text x="44" y="72" class="overline">COMPUTER ENGINEERING UNDERGRADUATE // SRBIAU &amp; SAMPAD ALUMNUS</text>
+  <text x="44" y="70" class="overline">COMPUTER ENGINEERING UNDERGRADUATE // SRBIAU</text>
 
   <!-- Display Name -->
-  <text x="44" y="118" class="name">POUYA RAEISI NASAB</text>
+  <text x="44" y="116" class="name">POUYA RAEISI NASAB</text>
 
   <!-- The Red Scalpel Accent Line (VoiceBox signature 4px bar) -->
-  <rect x="44" y="128" width="180" height="4" fill="#EF4444" />
+  <rect x="44" y="126" width="180" height="4" fill="#EF4444" />
 
-  <!-- Professional Subheadline -->
-  <text x="44" y="156" class="tagline">FRONTEND ARCHITECTURE  •  WEB PERFORMANCE  •  ZERO PLUGIN BLOAT</text>
+  <!-- Professional Subheadline (General & Timeless) -->
+  <text x="44" y="154" class="tagline">SOFTWARE &amp; WEB DEVELOPER  •  PROBLEM SOLVER  •  TECH ENTHUSIAST</text>
 
   <!-- Bottom Technical Pillar Badges -->
-  <!-- Badge 1: Core Web Vitals -->
+  <!-- Badge 1: Frontend & Web -->
   <g transform="translate(44, 178)">
     <rect x="0" y="0" width="185" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
     <rect x="0" y="0" width="4" height="28" fill="#EF4444" />
-    <text x="14" y="18" class="pill-text">⚡ CORE WEB VITALS</text>
+    <text x="14" y="18" class="pill-text">⚡ WEB DEVELOPMENT</text>
   </g>
 
-  <!-- Badge 2: Figma to Code -->
+  <!-- Badge 2: OOP & Clean Code -->
   <g transform="translate(241, 178)">
     <rect x="0" y="0" width="195" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
     <rect x="0" y="0" width="4" height="28" fill="#E5E5E5" />
-    <text x="14" y="18" class="pill-text">📐 PIXEL-PERFECT FIGMA</text>
+    <text x="14" y="18" class="pill-text">🧠 OOP &amp; CLEAN ARCH</text>
   </g>
 
   <!-- Badge 3: Network+ Certified -->
@@ -95,10 +95,10 @@
     <text x="14" y="18" class="pill-text">🛡️ COMPTIA NETWORK+</text>
   </g>
 
-  <!-- Badge 4: Production Proven -->
+  <!-- Badge 4: Backend & APIs -->
   <g transform="translate(645, 178)">
     <rect x="0" y="0" width="180" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
     <rect x="0" y="0" width="4" height="28" fill="#E5E5E5" />
-    <text x="14" y="18" class="pill-text">🚀 PHARMA &amp; E-COMMERCE</text>
+    <text x="14" y="18" class="pill-text">💻 BACKEND &amp; APIS</text>
   </g>
 </svg>

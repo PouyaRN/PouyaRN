@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&amp;family=Space+Mono:wght@400;700&amp;family=Work+Sans:wght@500;700&amp;display=swap');
+      
+      .overline {
+        font-family: 'Space Mono', Consolas, monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        fill: #A3A3A3;
+      }
+      
+      .name {
+        font-family: 'Archivo Black', 'Impact', 'Arial Black', sans-serif;
+        font-size: 42px;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        fill: #FAFAFA;
+      }
+      
+      .tagline {
+        font-family: 'Work Sans', -apple-system, sans-serif;
+        font-size: 14.5px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        fill: #D4D4D4;
+      }
+      
+      .pill-text {
+        font-family: 'Space Mono', Consolas, monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        fill: #FAFAFA;
+      }
+      
+      .meta-tag {
+        font-family: 'Space Mono', Consolas, monospace;
+        font-size: 10px;
+        letter-spacing: 0.1em;
+        fill: #525252;
+      }
+    </style>
+  </defs>
+
+  <!-- Canvas: Stark Dark Foundation (#0A0A0A) -->
+  <rect width="880" height="240" fill="#0A0A0A" />
+
+  <!-- Structural Frame (VoiceBox 2px solid border, 0px radius) -->
+  <rect x="12" y="12" width="856" height="216" fill="none" stroke="#262626" stroke-width="2" />
+
+  <!-- Top Decorative Tech Accents -->
+  <rect x="24" y="24" width="8" height="8" fill="#EF4444" />
+  <text x="40" y="32" class="meta-tag">GITHUB PROFILE // 2026 EDITION</text>
+  <text x="730" y="32" class="meta-tag">STATUS: AVAILABLE FOR HIRE</text>
+
+  <!-- Subtle Structural Corner Notches -->
+  <line x1="844" y1="24" x2="856" y2="24" stroke="#525252" stroke-width="2" />
+  <line x1="856" y1="24" x2="856" y2="36" stroke="#525252" stroke-width="2" />
+
+  <!-- Overline / Role Subtitle -->
+  <text x="44" y="72" class="overline">COMPUTER ENGINEERING UNDERGRADUATE // SRBIAU &amp; SAMPAD ALUMNUS</text>
+
+  <!-- Display Name -->
+  <text x="44" y="118" class="name">POUYA RAEISI NASAB</text>
+
+  <!-- The Red Scalpel Accent Line (VoiceBox signature 4px bar) -->
+  <rect x="44" y="128" width="180" height="4" fill="#EF4444" />
+
+  <!-- Professional Subheadline -->
+  <text x="44" y="156" class="tagline">FRONTEND ARCHITECTURE  •  WEB PERFORMANCE  •  ZERO PLUGIN BLOAT</text>
+
+  <!-- Bottom Technical Pillar Badges -->
+  <!-- Badge 1: Core Web Vitals -->
+  <g transform="translate(44, 178)">
+    <rect x="0" y="0" width="185" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
+    <rect x="0" y="0" width="4" height="28" fill="#EF4444" />
+    <text x="14" y="18" class="pill-text">⚡ CORE WEB VITALS</text>
+  </g>
+
+  <!-- Badge 2: Figma to Code -->
+  <g transform="translate(241, 178)">
+    <rect x="0" y="0" width="195" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
+    <rect x="0" y="0" width="4" height="28" fill="#E5E5E5" />
+    <text x="14" y="18" class="pill-text">📐 PIXEL-PERFECT FIGMA</text>
+  </g>
+
+  <!-- Badge 3: Network+ Certified -->
+  <g transform="translate(448, 178)">
+    <rect x="0" y="0" width="185" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
+    <rect x="0" y="0" width="4" height="28" fill="#EF4444" />
+    <text x="14" y="18" class="pill-text">🛡️ COMPTIA NETWORK+</text>
+  </g>
+
+  <!-- Badge 4: Production Proven -->
+  <g transform="translate(645, 178)">
+    <rect x="0" y="0" width="180" height="28" fill="#141414" stroke="#262626" stroke-width="1.5" />
+    <rect x="0" y="0" width="4" height="28" fill="#E5E5E5" />
+    <text x="14" y="18" class="pill-text">🚀 PHARMA &amp; E-COMMERCE</text>
+  </g>
+</svg>
